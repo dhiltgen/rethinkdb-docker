@@ -1,6 +1,6 @@
-ORG?=jlhawn
-PROJ?=rethinkdb
-VERSION?=2.3.6
+ORG?=dockereng
+PROJ?=rethinkdb-base
+VERSION?=2.3.6-ubuntu
 CARCH?=x86_64
 
 image:
